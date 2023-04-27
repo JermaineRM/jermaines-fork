@@ -21,7 +21,7 @@ documentation:
   author:       "Jermaine"      # Tiny tapeout 3 templet copy
   title:        "Tiny tapeout"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "a and b or a and b to find what it equals"      # Short description of what your project does
+  description:  "when a and b or a and b to find what it equals"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
